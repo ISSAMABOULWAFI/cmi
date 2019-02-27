@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cmi</name>
+    <displayName><![CDATA[CMI]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Paiements par carte de bancaire avec le CMI]]></description>
+    <author><![CDATA[CMI]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sur de vouloir désinstaller?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

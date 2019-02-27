@@ -1,0 +1,38 @@
+.payment_module.cmi {
+	
+}
+.payment_module.cmi a {
+	background-color: #fbfbfb;
+	background-image: url("../img/cadenas.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: 15px 15px;
+	background-clip: border-box;
+ 	background-origin: padding-box;
+	background-size: auto auto;
+}
+
+.payment_module.cmi img.cardicons {
+	max-width:160px;
+	margin-top:.2em;
+}
+.payment_module.cmi .slogan {
+	
+}
+#content > * {
+	margin: 0 auto;
+	max-width: 900px;
+}
+#payment-logo {
+	max-height: 60px;
+	max-width: 100% !important;
+}
+#bpadm-header h4, #bpadm-content h4 {
+	margin: 15px auto;
+	color: #417bf0;
+	font-size: 1.8em;
+}
+.inputBp
+{
+	width: 150px!important;
+}
